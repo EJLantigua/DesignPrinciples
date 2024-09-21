@@ -156,7 +156,7 @@ Example of Fragile Base Class Problem
             to base class can become increasingly risky & costly over time. Developers may 
             avoid making necessary changes to the fear of breaking existing functionality -- Brittle software
 
-// Migration Strategies: To mitigate the FBC Problem, software developers can use design principles such as 
+// Mitigation Strategies: To mitigate the FBC Problem, software developers can use design principles such as 
 the Open/Closed Principle (OCP) & Dependency Inversion Principle (DIP), as well as Composition over Inheritance.
 These approaches can promote loose coupling, encapsulation, and modular design, reducing the impact of changes
 in the base classes.
